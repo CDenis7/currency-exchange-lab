@@ -1,0 +1,8 @@
+2025-09-28 19:04:37,717 - INFO - Directorul 'results' a fost creat.
+2025-09-28 19:04:37,718 - INFO - Datele au fost salvate cu succes �n: results\RON_UAH_2025-08-20.json
+2025-09-28 19:07:11,237 - INFO - Se trimite cererea către: http://localhost:8080/?from=MDL&to=RON&date=2025-02-25
+2025-09-28 19:07:11,283 - INFO - Datele au fost salvate cu succes în: results\MDL_RON_2025-02-25.json
+2025-09-28 19:07:57,644 - INFO - Se trimite cererea către: http://localhost:8080/?from=EUR&to=USD&date=2025-06-10
+2025-09-28 19:07:57,668 - INFO - Datele au fost salvate cu succes în: results\EUR_USD_2025-06-10.json
+2025-09-28 19:08:14,497 - INFO - Se trimite cererea către: http://localhost:8080/?from=USD&to=MDL&date=2025-09-01
+2025-09-28 19:08:14,600 - INFO - Datele au fost salvate cu succes în: results\USD_MDL_2025-09-01.json
